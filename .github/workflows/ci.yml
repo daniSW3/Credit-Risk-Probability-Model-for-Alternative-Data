@@ -1,0 +1,24 @@
+name: CI/CD Pipeline
+
+on:
+  push:
+    branches: [ "main" ]  # Triggers on every push to the 'main' branch
+
+jobs:
+  build:
+    runs-on: ubuntu-latest  # Uses a GitHub-hosted Ubuntu runner
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4  # Checks out your repository
+
+      - name: Set up Node.js (example for a Node.js project)
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'  # Replace with your desired Node.js version
+
+      - name: Install dependencies
+        run: npm install  # Example command (adjust based on your project)
+
+      - name: Run tests
+        run: npm test  # Example test command (adjust as needed)
