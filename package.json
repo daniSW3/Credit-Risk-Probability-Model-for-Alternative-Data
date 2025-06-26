@@ -1,0 +1,23 @@
+{
+  "name": "credit-risk-probability-model-for-alternative-data",
+  "version": "1.0.0",
+  "description": "Credit Scoring Business UnderstandingThe Basel II Accord, introduced by the Basel Committee on Banking Supervision, emphasizes robust risk measurement and management to ensure the stability of financial institutions. Its focus on risk measurement, particularly through the three pillars (Minimum Capital Requirements, Supervisory Review, and Market Discipline), directly influences the need for interpretable and well-documented models in the following ways:",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniSW3/Credit-Risk-Probability-Model-for-Alternative-Data.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daniSW3/Credit-Risk-Probability-Model-for-Alternative-Data/issues"
+  },
+  "homepage": "https://github.com/daniSW3/Credit-Risk-Probability-Model-for-Alternative-Data#readme"
+}
