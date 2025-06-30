@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/Daniel.Temesgen/Desktop/Credit%20Risk%20Probability%20Model%20for%20Alternative%20Data/notebooks/mlruns/963752532138785949/models/m-53c1bbe4ae174ed1afdc7369254820d0/artifacts
+creation_timestamp: 1751276750846
+experiment_id: '963752532138785949'
+last_updated_timestamp: 1751276761410
+model_id: m-53c1bbe4ae174ed1afdc7369254820d0
+model_type: null
+name: LogisticRegression_model
+source_run_id: 4deea5908d004130aaecc1a6c27d21f5
+status: 2
+status_message: null
