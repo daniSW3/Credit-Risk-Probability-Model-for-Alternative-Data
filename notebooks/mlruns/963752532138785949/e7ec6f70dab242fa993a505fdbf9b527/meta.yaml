@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Daniel.Temesgen/Desktop/Credit%20Risk%20Probability%20Model%20for%20Alternative%20Data/notebooks/mlruns/963752532138785949/e7ec6f70dab242fa993a505fdbf9b527/artifacts
+end_time: 1751286501546
+entry_point_name: ''
+experiment_id: '963752532138785949'
+lifecycle_stage: active
+run_id: e7ec6f70dab242fa993a505fdbf9b527
+run_name: RandomForest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751286492363
+status: 3
+tags: []
+user_id: Daniel.Temesgen

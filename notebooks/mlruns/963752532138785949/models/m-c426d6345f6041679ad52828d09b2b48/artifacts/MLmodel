@@ -1,0 +1,22 @@
+artifact_path: file:///c:/Users/Daniel.Temesgen/Desktop/Credit%20Risk%20Probability%20Model%20for%20Alternative%20Data/notebooks/mlruns/963752532138785949/models/m-c426d6345f6041679ad52828d09b2b48/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.2
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.0
+mlflow_version: 3.1.1
+model_id: m-c426d6345f6041679ad52828d09b2b48
+model_size_bytes: 860
+model_uuid: m-c426d6345f6041679ad52828d09b2b48
+prompts: null
+run_id: f2283dc232f34209a5d84f68b8314ad3
+utc_time_created: '2025-06-30 12:28:04.790791'

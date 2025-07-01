@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Daniel.Temesgen/Desktop/Credit%20Risk%20Probability%20Model%20for%20Alternative%20Data/notebooks/mlruns/963752532138785949/f2283dc232f34209a5d84f68b8314ad3/artifacts
+end_time: 1751286492356
+entry_point_name: ''
+experiment_id: '963752532138785949'
+lifecycle_stage: active
+run_id: f2283dc232f34209a5d84f68b8314ad3
+run_name: LogisticRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751286460838
+status: 3
+tags: []
+user_id: Daniel.Temesgen

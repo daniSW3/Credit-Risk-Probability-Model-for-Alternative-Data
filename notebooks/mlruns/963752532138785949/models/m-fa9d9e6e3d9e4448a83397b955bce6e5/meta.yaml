@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/Daniel.Temesgen/Desktop/Credit%20Risk%20Probability%20Model%20for%20Alternative%20Data/notebooks/mlruns/963752532138785949/models/m-fa9d9e6e3d9e4448a83397b955bce6e5/artifacts
+creation_timestamp: 1751286494083
+experiment_id: '963752532138785949'
+last_updated_timestamp: 1751286501516
+model_id: m-fa9d9e6e3d9e4448a83397b955bce6e5
+model_type: null
+name: RandomForest_model
+source_run_id: e7ec6f70dab242fa993a505fdbf9b527
+status: 2
+status_message: null
